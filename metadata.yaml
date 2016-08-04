@@ -1,0 +1,39 @@
+_repo: Personal-Recollections-of-Joan-of-Arc---Volume-1_2874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: Regarded by many as the most luminous example of Twain's work, this historical
+  novel chronicles the French heroine's life, as purportedly told by her longtime
+  friend -- Sieur Louis de Conté. A panorama of stirring scenes recount Joan's childhood
+  in Domremy, the story of her voices, the fight for Orleans, the splendid march to
+  Rheims, and much more. An amazing record that disclosed Twain's unrestrained admiration
+  for Joan's nobility of character, the book is matchless in its workmanship -- one
+  of Twain's lesser-known novels that will charm and delightfully surprise his admirers
+  and devotees.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Charles VII, 1422-1461 -- Fiction'
+- !lcsh 'Joan, of Arc, Saint, 1412-1431 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Christian women saints -- Fiction'
+- GITenberg
+title: Personal Recollections of Joan of Arc — Volume 1
+url: http://www.gutenberg.org/ebooks/2874

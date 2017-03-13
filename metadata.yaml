@@ -1,5 +1,8 @@
 _repo: Personal-Recollections-of-Joan-of-Arc---Volume-1_2874
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -19,6 +22,8 @@ description: Regarded by many as the most luminous example of Twain's work, this
   for Joan's nobility of character, the book is matchless in its workmanship -- one
   of Twain's lesser-known novels that will charm and delightfully surprise his admirers
   and devotees.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2874#Personal-Recollections-of-Joan-of-Arc---Volume-1
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-09-15'
 gutenberg_type: Text
